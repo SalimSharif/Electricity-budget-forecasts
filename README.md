@@ -1,2 +1,2 @@
-# Electricity-budget-forecasts
-Electricity Cost Forecasting: An Application of Time-series Econometrics with R (ARIMA, Neural Net, Exponential Smoothing &amp; Ensemble Models)
+# Electricity-budget-forecasts (ARIMA, Neural Net, Exponential Smoothing & Ensemble Models)
+Electricity Cost Forecasting: An Application of Time-series Econometrics with R
